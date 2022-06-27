@@ -11,4 +11,3 @@
   - [NatHillardUSDS](https://github.com/NatHillardUSDS) - My Github profile for my work with the United States Digital Service
   - [NatHillardVA](https://github.com/NatHillardVA) - My Github profile for my work with the Department of Veteran's Affairs
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
