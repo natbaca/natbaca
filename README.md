@@ -6,7 +6,7 @@
 - 📫 How to reach me:
   - [My Website](https://www.natbaca.net) 
   - [My Wikimedia Staff Page](https://meta.wikimedia.org/wiki/User:NBaca-WMF)
-  - [My Personal metawiki profile Profile](https://meta.wikimedia.org/wiki/User:NatBaca)
+  - [My Personal Metawiki Profile](https://meta.wikimedia.org/wiki/User:NatBaca)
   - [NatHillard-WMF](https://github.com/NatHillard-WMF) - My official Wikimedia-affiliated Github account
   - [NatHillardUSDS](https://github.com/NatHillardUSDS) - My Github profile for my work with the United States Digital Service
   - [NatHillardVA](https://github.com/NatHillardVA) - My Github profile for my work with the Department of Veteran's Affairs
