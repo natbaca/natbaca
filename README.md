@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on Wikimedia-related projects
 - 💬 Ask me about internationalization, accessibility
 - 📫 How to reach me:
-  - [My Website](http://www.natbaca.net) 
+  - [My Website](https://www.natbaca.net) 
   - [My Wikimedia Staff Page](https://meta.wikimedia.org/wiki/User:NBaca-WMF)
   - [My Personal metawiki profile Profile](https://meta.wikimedia.org/wiki/User:NatBaca)
   - [NatHillard-WMF](https://github.com/NatHillard-WMF) - My official Wikimedia-affiliated Github account
